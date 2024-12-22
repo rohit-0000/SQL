@@ -1,0 +1,28 @@
+DATA :- Data is collection of distinct small unit of information. Raw facts and figure.
+
+Database :- A database is an organised collection of data , so that it can be easily accessed and managed.
+
+MySQL :- it is open source RDMBS software by Oracle.
+	> RDMBS :- Relational Database Management System
+	> it store data in the form of table.
+	> tables can have relation among them.
+
+Features of MySQL :
+> It Supports Query Language 
+> User Management
+> Free & Open Source
+> Transaction management
+> Speed , Scalability , Performance etc.
+
+
+MySQL Architecture :
+> It works on Client Server Architecture.
+> We have client(By default command line) and Server in My server.
+> All the works and storage will be done in Server. i.e formation of table , database.
+> We Cannot directly access server , we have to talk to client first.
+> suppose some work is given to client , then client request server for that work and server have its own query engine which take query and return to client after executing.
+> we have GUI(Graphical user interface) clients for dealing with large no of tables. i.e Workbench , phpMyAdmin , sqlyog ,etc.
+> If we give host, port, username and password to any client then it will connect with server and can send request and take response.
+> we have to manually install GUI client (by default we have command line client).
+> In server we have databases and we can create databases with different name where we can store tables
+

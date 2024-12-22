@@ -1,0 +1,18 @@
+DATA :- Data is collection of distinct small unit of information. Raw facts and figure.
+
+Database :- A database is an organised collection of data , so that it can be easily accessed and managed.
+
+MySQL :- it is open source RDMBS software by Oracle.
+	> RDMBS :- Relational Database Management System
+	> it store data in the form of table.
+	> tables can have relation among them.
+
+Features of MySQL :
+
+> It Supports Query Language 
+> User Management
+> Free & Open Source
+> Transaction management
+> Speed , Scalability , Performance etc.
+
+
